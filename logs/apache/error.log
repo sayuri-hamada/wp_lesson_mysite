@@ -1,0 +1,15 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using hamadasayorisatonoMacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 28 12:06:58.442435 2022] [mpm_event:notice] [pid 16267:tid 8673302016] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Dec 28 12:06:58.442738 2022] [core:notice] [pid 16267:tid 8673302016] AH00094: Command line: '/Users/hamada_pc/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/hamada_pc/Library/Application Support/Local/run/WefF8P6ub/conf/apache/apache2.conf'
+[Wed Dec 28 12:13:44.538574 2022] [mpm_event:notice] [pid 16267:tid 8673302016] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using hamadasayorisatonoMacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 28 12:13:50.340525 2022] [mpm_event:notice] [pid 16566:tid 8605419008] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Dec 28 12:13:50.340836 2022] [core:notice] [pid 16566:tid 8605419008] AH00094: Command line: '/Users/hamada_pc/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/hamada_pc/Library/Application Support/Local/run/WefF8P6ub/conf/apache/apache2.conf'
+[Wed Dec 28 12:14:02.170214 2022] [mpm_event:notice] [pid 16566:tid 8605419008] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using hamadasayorisatonoMacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 28 12:14:03.126314 2022] [mpm_event:notice] [pid 16613:tid 8660645376] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Dec 28 12:14:03.126672 2022] [core:notice] [pid 16613:tid 8660645376] AH00094: Command line: '/Users/hamada_pc/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/hamada_pc/Library/Application Support/Local/run/WefF8P6ub/conf/apache/apache2.conf'
+[Wed Dec 28 17:21:08.445419 2022] [mpm_event:notice] [pid 16613:tid 8660645376] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using hamadasayorisatonoMacBook-Pro-2.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 10 12:16:15.784931 2023] [mpm_event:notice] [pid 5917:tid 8593434112] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Jan 10 12:16:15.785634 2023] [core:notice] [pid 5917:tid 8593434112] AH00094: Command line: '/Users/hamada_pc/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/hamada_pc/Library/Application Support/Local/run/WefF8P6ub/conf/apache/apache2.conf'

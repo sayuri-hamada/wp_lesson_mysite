@@ -1,0 +1,1 @@
+/Users/hamada_pc/Local Sites/mysite/app/public/wp-content/plugins/query-monitor/wp-content/db.php
